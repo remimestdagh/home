@@ -8,25 +8,13 @@
     {
       "id": 0,
       "image": "fa-github",
-      "url": "https://github.com/hashirshoaeb",
-      "style": "socialicons"
-    },
-    {
-      "id": 1,
-      "image": "fa-facebook",
-      "url": "https://www.facebook.com/hashir.shoaeb",
-      "style": "socialicons"
-    },
-    {
-      "id": 2,
-      "image": "fa-instagram",
-      "url": "https://www.instagram.com/hashirshoaeb/",
+      "url": "https://github.com/remimestdagh",
       "style": "socialicons"
     },
     {
       "id": 3,
       "image": "fa-linkedin",
-      "url": "https://www.linkedin.com/in/hashir-shoaeb/",
+      "url": "https://www.linkedin.com/in/remi-mestdagh-377961185/",
       "style": "socialicons"
     }
   ],
