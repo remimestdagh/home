@@ -8,6 +8,8 @@ import Pdf from "../editable-stuff/resume.pdf";
 const AboutMe = () => {
   const [heading] = useState("About me");
   const [aboutDev] = useState(Configs.aboutDev);
+  const [moreInfo] = useState(Configs.moreInfo);
+  const [hobbies] = useState(Configs.hobbies);
   const [instaProfilePic, setInstaProfilePic] = useState("");
   const [showInsta, setShowInsta] = useState(Configs.showInstaProfilePic);
   const [resumeURL] = useState(Pdf);
@@ -54,6 +56,8 @@ const AboutMe = () => {
           <div className={`col-lg-${showInsta ? "7" : "12"}`}>
             <h1 className="display-4 mb-5 text-center">{heading}</h1>
             <p className="lead text-center">{aboutDev}</p>
+            <p className="lead text-center">{moreInfo}</p>
+            <p className="lead text-center">{hobbies}</p>
             {resumeURL && (
               <p className="lead text-center">
                 <a

@@ -22,9 +22,11 @@
   "instaUsername": "remimestdagh123",
   "instaQuerry": "/?__a=1",
   "showInstaProfilePic": true,
-  "aboutDev": "A second to last year IT student at University College Ghent. I am passionate about new technologies like AI, VueJS and many more...",
+  "aboutDev": "A second to last year IT student at University College Ghent. Learning a broad array of skills like object oriented programming, webdesign, database engineering, bash scripting... You can find all the details in my resume below! I am passionate about new technologies like AI, VueJS and many more ",
+  "moreInfo":"I am able to provide your team with a new positive energy and compassionate leadership qualities.",
+  "hobbies":"If I'm not busy programming or researching new technologies you can find me in my local tennis club.",
   "gitHubLink": "https://api.github.com/users/",
-  "gitHubUsername": "hashirshoaeb",
+  "gitHubUsername": "remimestdagh",
   "gitHubQuerry": "/repos?sort=updated&direction=desc",
-  "projectsLength": 4
+  "projectsLength": 6
 }
