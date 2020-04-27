@@ -1,8 +1,8 @@
 {
   "backgroundType": "gradient",
   "plainBackgroundMode": "daylight",
-  "devIntro": "Hashir Shoaib",
-  "devDesc": "| Engineer | Programmer | Web Developer | Photographer | Athlete | Artist ",
+  "devIntro": "Remi Mestdagh",
+  "devDesc": "Programmer | Web Developer | Network Manager | Database Designer | Freelancer ",
   "gradientColors": "#EE7752, #E73C7E, #23A6D5, #23D5AB",
   "icons": [
     {
@@ -19,10 +19,10 @@
     }
   ],
   "instaLink": "https://www.instagram.com/",
-  "instaUsername": "hashirshoaeb",
+  "instaUsername": "remimestdagh123",
   "instaQuerry": "/?__a=1",
   "showInstaProfilePic": true,
-  "aboutDev": "A final year Computer Engineer from NUST CEME, Pakistan with 3+ years experience in web development and passion to teach machines think. I’m currently the Vice President of student body at Emerging Technologies Research Lab(ETL) and a former Intern at RiseTech.",
+  "aboutDev": "A second to last year IT student at University College Ghent. I am passionate about new technologies like AI, VueJS and many more...",
   "gitHubLink": "https://api.github.com/users/",
   "gitHubUsername": "hashirshoaeb",
   "gitHubQuerry": "/repos?sort=updated&direction=desc",
